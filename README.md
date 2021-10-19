@@ -3,8 +3,8 @@
 # Hello Microverse!
 
 > A program sending greeings to microverse
+![screenshot](./screenshot.png)
 
-![screenshot](./Screenshot (18).png)
 
 
 
